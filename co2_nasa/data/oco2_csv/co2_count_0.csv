@@ -1,0 +1,64 @@
+GID_1,GID_0,COUNTRY,NAME_1,VARNAME_1,NL_NAME_1,TYPE_1,ENGTYPE_1,CC_1,HASC_1,ISO_1,co2_count
+VNM.1_1,VNM,Vietnam,An Giang,An Giang,NA,Tỉnh,Province,NA,VN.AG,VN-44,0
+VNM.7_1,VNM,Vietnam,Bà Rịa - Vũng Tàu,Ba Ria - Vung Tau,NA,Tỉnh,Province,NA,VN.BV,NA,409
+VNM.3_1,VNM,Vietnam,Bắc Giang,Bac Giang,NA,Tỉnh,Province,NA,VN.BG,NA,60
+VNM.4_1,VNM,Vietnam,Bắc Kạn,Bac Kan,NA,Tỉnh,Province,NA,VN.BK,NA,0
+VNM.2_1,VNM,Vietnam,Bạc Liêu,Bac Lieu,NA,Tỉnh,Province,NA,VN.BL,NA,0
+VNM.5_1,VNM,Vietnam,Bắc Ninh,Bac Ninh,NA,Tỉnh,Province,NA,VN.BN,NA,0
+VNM.6_1,VNM,Vietnam,Bến Tre,Ben Tre,NA,Tỉnh,Province,NA,VN.BR,NA,0
+VNM.8_1,VNM,Vietnam,Bình Định,Binh Dinh,NA,Tỉnh,Province,NA,VN.BD,NA,65
+VNM.9_1,VNM,Vietnam,Bình Dương,Binh Duong,NA,Tỉnh,Province,NA,VN.BI,NA,3
+VNM.10_1,VNM,Vietnam,Bình Phước,Binh Phuoc,NA,Tỉnh,Province,NA,VN.BP,NA,281
+VNM.11_1,VNM,Vietnam,Bình Thuận,Binh Thuan,NA,Tỉnh,Province,NA,VN.BU,NA,192
+VNM.13_1,VNM,Vietnam,Cà Mau,Ca Mau,NA,Tỉnh,Province,NA,VN.CM,NA,2
+VNM.12_1,VNM,Vietnam,Cần Thơ,Can Tho,NA,Thành phố,City,NA,VN.CN,NA,1
+VNM.14_1,VNM,Vietnam,Cao Bằng,Cao Bang,NA,Tỉnh,Province,NA,VN.CB,NA,86
+VNM.19_1,VNM,Vietnam,Đà Nẵng,Da Nang,NA,Thành phố,City,NA,VN.DA,NA,0
+VNM.15_1,VNM,Vietnam,Đắk Lắk,Dak Lak,NA,Tỉnh,Province,NA,VN.DC,NA,240
+VNM.16_1,VNM,Vietnam,Đắk Nông,Dak Nong,NA,Tỉnh,Province,NA,VN.DO,NA,0
+VNM.20_1,VNM,Vietnam,Điện Biên,Dien Bien,NA,Tỉnh,Province,NA,VN.DB,NA,146
+VNM.17_1,VNM,Vietnam,Đồng Nai,Dong Nai,NA,Tỉnh,Province,NA,VN.DN,NA,357
+VNM.18_1,VNM,Vietnam,Đồng Tháp,Dong Thap,NA,Tỉnh,Province,NA,VN.DT,NA,0
+VNM.21_1,VNM,Vietnam,Gia Lai,Gia Lai,NA,Tỉnh,Province,NA,VN.GL,VN-30,721
+VNM.26_1,VNM,Vietnam,Hà Giang,Ha Giang,NA,Tỉnh,Province,NA,VN.HG,NA,130
+VNM.28_1,VNM,Vietnam,Hà Nam,Ha Nam,NA,Tỉnh,Province,NA,VN.HM,NA,0
+VNM.27_1,VNM,Vietnam,Hà Nội,Ha Noi,NA,Thành phố,City,NA,VN.HI,NA,0
+VNM.29_1,VNM,Vietnam,Hà Tĩnh,Ha Tinh,NA,Tỉnh,Province,NA,VN.HT,NA,66
+VNM.22_1,VNM,Vietnam,Hải Dương,Hai Duong,NA,Tỉnh,Province,NA,VN.HD,NA,0
+VNM.23_1,VNM,Vietnam,Hải Phòng,Hai Phong,NA,Thành phố,City,NA,VN.HP,NA,33
+VNM.24_1,VNM,Vietnam,Hậu Giang,Hau Giang,NA,Tỉnh,Province,NA,VN.HU,NA,1
+VNM.25_1,VNM,Vietnam,Hồ Chí Minh,Ho Chi Minh,NA,Thành phố,City,NA,VN.HC,NA,5
+VNM.30_1,VNM,Vietnam,Hoà Bình,Hoa Binh,NA,Tỉnh,Province,NA,VN.HO,NA,37
+VNM.31_1,VNM,Vietnam,Hưng Yên,Hung Yen,NA,Tỉnh,Province,NA,VN.HY,NA,0
+VNM.32_1,VNM,Vietnam,Khánh Hòa,Khanh Hoa,NA,Tỉnh,Province,NA,VN.KH,NA,13
+VNM.33_1,VNM,Vietnam,Kiên Giang,Kien Giang,NA,Tỉnh,Province,NA,VN.KG,NA,1
+VNM.34_1,VNM,Vietnam,Kon Tum,Kon Tum,NA,Tỉnh,Province,NA,VN.KT,VN-28,559
+VNM.36_1,VNM,Vietnam,Lai Châu,Lai Chau,NA,Tỉnh,Province,NA,VN.LI,NA,74
+VNM.37_1,VNM,Vietnam,Lâm Đồng,Lam Dong,NA,Tỉnh,Province,NA,VN.LD,NA,197
+VNM.35_1,VNM,Vietnam,Lạng Sơn,Lang Son,NA,Tỉnh,Province,NA,VN.LS,NA,13
+VNM.38_1,VNM,Vietnam,Lào Cai,Lao Cai,NA,Tỉnh,Province,NA,VN.LO,NA,0
+VNM.39_1,VNM,Vietnam,Long An,Long An,NA,Tỉnh,Province,NA,VN.LA,VN-41,26
+VNM.40_1,VNM,Vietnam,Nam Định,Nam Dinh,NA,Tỉnh,Province,NA,VN.ND,NA,17
+VNM.41_1,VNM,Vietnam,Nghệ An,Nghe An,NA,Tỉnh,Province,NA,VN.NA,NA,358
+VNM.42_1,VNM,Vietnam,Ninh Bình,Ninh Binh,NA,Tỉnh,Province,NA,VN.NB,NA,0
+VNM.43_1,VNM,Vietnam,Ninh Thuận,Ninh Thuan,NA,Tỉnh,Province,NA,VN.NT,NA,178
+VNM.44_1,VNM,Vietnam,Phú Thọ,Phu Tho,NA,Tỉnh,Province,NA,VN.PT,NA,126
+VNM.45_1,VNM,Vietnam,Phú Yên,Phu Yen,NA,Tỉnh,Province,NA,VN.PY,NA,9
+VNM.46_1,VNM,Vietnam,Quảng Bình,Quang Binh,NA,Tỉnh,Province,NA,VN.QB,NA,7
+VNM.47_1,VNM,Vietnam,Quảng Nam,Quang Nam,NA,Tỉnh,Province,NA,VN.QM,NA,118
+VNM.48_1,VNM,Vietnam,Quảng Ngãi,Quang Ngai,NA,Tỉnh,Province,NA,VN.QG,NA,164
+VNM.49_1,VNM,Vietnam,Quảng Ninh,Quang Ninh,NA,Tỉnh,Province,NA,VN.QN,NA,20
+VNM.50_1,VNM,Vietnam,Quảng Trị,Quang Tri,NA,Tỉnh,Province,NA,VN.QT,NA,11
+VNM.51_1,VNM,Vietnam,Sóc Trăng,Soc Trang,NA,Tỉnh,Province,NA,VN.ST,NA,127
+VNM.52_1,VNM,Vietnam,Sơn La,Son La,NA,Tỉnh,Province,NA,VN.SL,NA,235
+VNM.53_1,VNM,Vietnam,Tây Ninh,Tay Ninh,NA,Tỉnh,Province,NA,VN.TN,NA,0
+VNM.55_1,VNM,Vietnam,Thái Bình,Thai Binh,NA,Tỉnh,Province,NA,VN.TB,NA,2
+VNM.56_1,VNM,Vietnam,Thái Nguyên,Thai Nguyen,NA,Tỉnh,Province,NA,VN.TY,NA,0
+VNM.57_1,VNM,Vietnam,Thanh Hóa,Thanh Hoa,NA,Tỉnh,Province,NA,VN.TH,NA,234
+VNM.54_1,VNM,Vietnam,Thừa Thiên Huế,Thua Thien Hue,NA,Tỉnh,Province,NA,VN.TT,NA,233
+VNM.58_1,VNM,Vietnam,Tiền Giang,Tien Giang,NA,Tỉnh,Province,NA,VN.TG,NA,6
+VNM.59_1,VNM,Vietnam,Trà Vinh,Tra Vinh,NA,Tỉnh,Province,NA,VN.TV,NA,0
+VNM.60_1,VNM,Vietnam,Tuyên Quang,Tuyen Quang,NA,Tỉnh,Province,NA,VN.TQ,NA,0
+VNM.61_1,VNM,Vietnam,Vĩnh Long,Vinh Long,NA,Tỉnh,Province,NA,VN.VL,NA,0
+VNM.62_1,VNM,Vietnam,Vĩnh Phúc,Vinh Phuc,NA,Tỉnh,Province,NA,VN.VC,NA,0
+VNM.63_1,VNM,Vietnam,Yên Bái,Yen Bai,NA,Tỉnh,Province,NA,VN.YB,NA,286
